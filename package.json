@@ -16,12 +16,12 @@
 	"test": "brunch test"
   },
   "dependencies": {
-	"javascript-brunch": ">= 1.0 < 1.5",
+	"javascript-brunch": ">= 1.0 < 1.7",
 
-	"css-brunch": ">= 1.0 < 1.5",
+	"css-brunch": ">= 1.0 < 1.7",
 
-	"uglify-js-brunch": ">= 1.0 < 1.5",
-	"clean-css-brunch": ">= 1.0 < 1.5"
+	"uglify-js-brunch": ">= 1.0 < 1.7",
+	"clean-css-brunch": ">= 1.0 < 1.7"
   },
   "devDependencies": {
   }
