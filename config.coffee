@@ -4,7 +4,7 @@ exports.config =
     wrapper: false
     definition: false
   paths:
-    app: 'src'
+    watched: ['src']
     public: 'build'
   files:
     javascripts:
